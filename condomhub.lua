@@ -10,7 +10,7 @@ local gooners = game:GetService("Players")
 local mouse = gooners.LocalPlayer:GetMouse()
 
 local waifu = Drawing.new("Image")
-waifu.Size = Vector2.new(1458, 1080) 
+waifu.Size = Vector2.new(729, 540) 
 waifu.Position = Vector2.new(0, 0)
 waifu.Visible = true
 
