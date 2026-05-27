@@ -10,8 +10,8 @@ local gooners = game:GetService("Players")
 local mouse = gooners.LocalPlayer:GetMouse()
 
 local waifu = Drawing.new("Image")
-waifu.Size = Vector2.new(288, 512) 
-waifu.Position = Vector2.new(500, 200)
+waifu.Size = Vector2.new(1458, 1080) 
+waifu.Position = Vector2.new(0, 0)
 waifu.Visible = true
 
 waifu.Data = game:HttpGet("https://raw.githubusercontent.com/ALYA-Luna/test/refs/heads/main/condomhub.png")
